@@ -3,6 +3,7 @@ body {
     background: rgb(180, 192, 161);
     text-align: center;
     font-family: "Monaco", Lucida-Console, Calibri, sans-serif;
+    color: rgb(45, 45, 45);
 }
 
 .content-width {
@@ -16,5 +17,5 @@ header {
     padding: 2rem 0;
     background-color: rgb(255, 255, 255);
     border-bottom: 4px solid rgb(77, 77, 77);
-    color: rgb(77, 77, 77);
+    color: rgb(45, 45, 45);
   }
