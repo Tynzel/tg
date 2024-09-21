@@ -2,6 +2,7 @@ body {
     margin: 0;
     background: rgb(180, 192, 161);
     text-align: center;
+    font-family: "PT Sans", Calibri, Tahoma, sans-serif;
 }
 
 html { 
