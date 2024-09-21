@@ -14,7 +14,7 @@ body {
 header {
     margin-bottom: 4rem;
     padding: 2rem 0;
-    background-color: rgb(227, 235, 213);
-    border-bottom: 4px solid rgb(111, 111, 111);
-    color: rgb(111, 111, 111);
+    background-color: rgb(255, 255, 255);
+    border-bottom: 4px solid rgb(77, 77, 77);
+    color: rgb(77, 77, 77);
   }
