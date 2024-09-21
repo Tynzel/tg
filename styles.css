@@ -9,3 +9,17 @@ html {
     font-weight: 400;
     font-style: normal;
   }
+
+.content-width {
+    max-width: 70ch;
+    width: calc(100% - 4rem);
+    margin: 0 auto;
+  }
+  
+header {
+    margin-bottom: 4rem;
+    padding: 2rem 0;
+    background-color: rgb(227, 235, 213);
+    border-bottom: 4px solid rgb(227, 235, 213);
+    color: rgb(227, 235, 213);
+  }
