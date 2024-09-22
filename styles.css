@@ -43,3 +43,7 @@ a:active {
     background-color: transparent;
     text-decoration: underline;
   }
+
+img {
+    border: 5px solid #ffffff;
+  }
