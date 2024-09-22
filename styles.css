@@ -48,3 +48,7 @@ a:active {
 img {
     border: 5px solid rgb(45,45,45);
   }
+
+p.shifted {
+    margin-left: 100px;
+}
