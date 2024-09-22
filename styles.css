@@ -64,15 +64,7 @@ p {
     color: #000000;
 }
 
-
-
 .footer {
-  position: absolute;
-  bottom: 0;
-  left: 0;
-  width: 100%;
-  margin-top: 4rem;
-  padding: 2rem 0;
   border-top: 4px solid rgb(45, 45, 45);
   background: #000000;
   text-align: center;
