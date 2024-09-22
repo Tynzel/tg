@@ -47,3 +47,7 @@ a:active {
 img {
     border: 5px solid #ffffff;
   }
+
+  p.shifted {
+    margin-left: 30px;
+}
