@@ -48,6 +48,6 @@ img {
     border: 5px solid rgb(45,45,45);
   }
 
-p.shifted {
+p {
     margin-left: 100px;
-}
+  }
