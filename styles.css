@@ -1,6 +1,6 @@
 body {
     margin: 0;
-    background: rgb(220, 228, 207);
+    background: rgb(255, 255, 255);
     text-align: center;
     font-family: "Monaco", Lucida-Console, Calibri, sans-serif;
     color: rgb(45, 45, 45);
@@ -15,7 +15,7 @@ body {
 header {
     margin-bottom: 4rem;
     padding: 2rem 0;
-    background-color: rgb(255, 255, 255);
+    background-color: rgb(180,192,161);
     border-bottom: 4px solid rgb(45, 45, 45);
     color: rgb(45, 45, 45);
   }
@@ -33,13 +33,13 @@ a:visited {
   }
   
 a:hover {
-    color: rgb(96, 136, 128);
+    color: rgb(255, 255, 255);
     background-color: transparent;
     text-decoration: underline;
   }
   
 a:active {
-    color: rgb(180, 192, 161);
+    color: rgb(255, 255, 255);
     background-color: transparent;
     text-decoration: underline;
   }
