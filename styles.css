@@ -57,6 +57,7 @@ p {
 footer {
   position: absolute;
   border-top: 4px solid rgb(45, 45, 45);
+  width: 100%;
   background: #000000;
   text-align: center;
   color: rgb(214, 219, 206);
