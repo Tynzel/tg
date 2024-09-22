@@ -55,8 +55,9 @@ p {
   }
 
 footer {
+  position: absolute;
   border-top: 4px solid rgb(45, 45, 45);
   background: #000000;
   text-align: center;
-  color: #FF5733;
+  color: rgb(214, 219, 206);
 }
