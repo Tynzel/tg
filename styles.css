@@ -1,5 +1,45 @@
 body {
     margin: 0;
-    background: mintcream;
+    background: rgb(220, 228, 207);
     text-align: center;
+    font-family: "Monaco", Lucida-Console, Calibri, sans-serif;
+    color: rgb(45, 45, 45);
 }
+
+.content-width {
+    max-width: 70ch;
+    width: calc(100% - 4rem);
+    margin: 0 auto;
+  }
+  
+header {
+    margin-bottom: 4rem;
+    padding: 2rem 0;
+    background-color: rgb(255, 255, 255);
+    border-bottom: 4px solid rgb(45, 45, 45);
+    color: rgb(45, 45, 45);
+  }
+
+a:link {
+    color: rgb(0, 0, 0);
+    background-color: transparent;
+    text-decoration: none;
+  }
+  
+a:visited {
+    color: rgb(0, 0, 0);
+    background-color: transparent;
+    text-decoration: none;
+  }
+  
+a:hover {
+    color: rgb(96, 136, 128);
+    background-color: transparent;
+    text-decoration: underline;
+  }
+  
+a:active {
+    color: rgb(180, 192, 161);
+    background-color: transparent;
+    text-decoration: underline;
+  }
