@@ -55,6 +55,8 @@ p {
   }
 
   footer {
+    margin-bottom: 4rem;
+    padding: 2rem 0;
     width: 100%;
     border-top: #000000;
     margin-top: auto;
