@@ -54,16 +54,6 @@ p {
     margin-left: 60px;
   }
 
-  footer {
-    margin-bottom: 4rem;
-    padding: 2rem 0;
-    width: 100%;
-    border-top: #000000;
-    margin-top: 0;
-    background-color: #ffffff;
-    color: #000000;
-}
-
 .footer {
   border-top: 4px solid rgb(45, 45, 45);
   background: #000000;
