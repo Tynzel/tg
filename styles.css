@@ -3,7 +3,6 @@ body {
     background: rgb(214, 219, 206);
     font-family: "Verdana", sans-serif;
     color: rgb(0, 0, 0);
-    margin: 0 0 100px;
 }
 
 .content-width {
@@ -19,6 +18,8 @@ header {
     background-color: rgb(255, 255, 255);
     border-bottom: 4px solid rgb(45, 45, 45);
     color: rgb(0, 0, 0);
+    display: flex;
+    flex-direction: column;
   }
 
 a:link {
@@ -54,12 +55,9 @@ p {
   }
 
   footer {
-    position: absolute;
-    left: 0;
-    bottom: 0;
-    height: 100px;
     width: 100%;
     border-top: #000000;
-    background-color: #949494;
-    color: #ffffff;
+    margin-top: auto;
+    background-color: #ffffff;
+    color: #000000;
 }
