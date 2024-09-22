@@ -19,3 +19,27 @@ header {
     border-bottom: 4px solid rgb(45, 45, 45);
     color: rgb(45, 45, 45);
   }
+
+a:link {
+    color: rgb(0, 0, 0);
+    background-color: transparent;
+    text-decoration: none;
+  }
+  
+a:visited {
+    color: rgb(0, 0, 0);
+    background-color: transparent;
+    text-decoration: none;
+  }
+  
+a:hover {
+    color: rgb(96, 136, 128);
+    background-color: transparent;
+    text-decoration: underline;
+  }
+  
+a:active {
+    color: rgb(180, 192, 161);
+    background-color: transparent;
+    text-decoration: underline;
+  }
