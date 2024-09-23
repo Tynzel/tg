@@ -62,3 +62,17 @@ footer {
   text-align: center;
   color: rgb(214, 219, 206);
 }
+
+navbar {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  justify-content: space-between;
+  align-items: center;
+  gap: 2em;
+}
+
+navbar > a {
+  font-weight: bold;
+  font-size: 16px;
+}
