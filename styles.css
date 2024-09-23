@@ -3,7 +3,6 @@ body {
     background: rgb(219, 223, 214);
     font-family: "Verdana", sans-serif;
     color: rgb(0, 0, 0);
-    text-align: center
 }
 
 .content-width {
@@ -79,4 +78,9 @@ navbar {
 navbar > a {
   font-weight: bold;
   font-size: 16px;
+}
+
+ul {
+  text-align: center;
+  list-style-position: inside;
 }
