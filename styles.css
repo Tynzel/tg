@@ -76,3 +76,7 @@ navbar > a {
   font-weight: bold;
   font-size: 16px;
 }
+
+img {
+  border-radius: 50%;
+}
