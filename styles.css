@@ -3,6 +3,7 @@ body {
     background: rgb(219, 223, 214);
     font-family: "Verdana", sans-serif;
     color: rgb(0, 0, 0);
+    text-align: center
 }
 
 .content-width {
