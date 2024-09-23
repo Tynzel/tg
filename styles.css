@@ -3,6 +3,8 @@ body {
     background: rgb(219, 223, 214);
     font-family: "Verdana", sans-serif;
     color: rgb(0, 0, 0);
+    margin-left: 10%;
+    margin-right: 10%;
 }
 
 .content-width {
@@ -49,11 +51,6 @@ a:active {
 img {
     border: 5px solid rgb(45,45,45);
     border-radius: 50%;
-  }
-
-p {
-    margin-left: 10%;
-    margin-right: 10%;
   }
 
 footer {
